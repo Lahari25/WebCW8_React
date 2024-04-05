@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebCW8_React/static/css/main.39aa532e.css",
+    "main.js": "/WebCW8_React/static/js/main.06a4d8cf.js",
+    "static/js/453.ed3810f9.chunk.js": "/WebCW8_React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/WebCW8_React/index.html",
+    "main.39aa532e.css.map": "/WebCW8_React/static/css/main.39aa532e.css.map",
+    "main.06a4d8cf.js.map": "/WebCW8_React/static/js/main.06a4d8cf.js.map",
+    "453.ed3810f9.chunk.js.map": "/WebCW8_React/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39aa532e.css",
+    "static/js/main.06a4d8cf.js"
+  ]
+}
